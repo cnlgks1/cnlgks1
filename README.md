@@ -2,7 +2,7 @@
 
 # KSC
 
-Frontend Developer
+WEB Developer
 
 [Portfolio](https://portfolio-ksc.vercel.app/)
 
